@@ -1,3 +1,3 @@
 # MemoryCard
 
-Hello this file MemoryCard
+Hello! This MemoryCard
